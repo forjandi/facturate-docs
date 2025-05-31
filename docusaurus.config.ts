@@ -14,11 +14,13 @@ const config: Config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  // Set the production url of your site here
-  url: 'https://docs.facturatepro.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // Si usas GitHub Pages directamente:
+  url: 'https://forjandi.github.io',
+  baseUrl: '/facturate-docs/',
+
+  // Si usas un dominio personalizado:
+  // url: 'https://docs.facturatepro.com',
+  // baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
