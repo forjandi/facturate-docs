@@ -33,9 +33,8 @@ Se integra fácilmente con otros sistemas de tu empresa mediante nuestra API RES
 ## ¿Por dónde empezar?
 
 1. **[Guía de inicio rápido](/docs/getting-started)** - Aprende a configurar tu cuenta y emitir tu primera factura
-2. **[Configuración inicial](/docs/setup)** - Configura tu empresa, certificados y parámetros
-3. **[Gestión de facturas](/docs/invoices)** - Todo sobre la creación y administración de facturas
-4. **[API Reference](/docs/api)** - Documentación completa de nuestra API
+2. **[Preguntas Frecuentes](/docs/faq)** - Resuelve tus dudas más comunes
+3. **[Tutoriales](/docs/tutorials/certificate-generation)** - Guías paso a paso para tareas específicas
 
 ## Soporte
 
