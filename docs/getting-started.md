@@ -12,7 +12,6 @@ Antes de comenzar a usar Facturate.pro, necesitarás:
 
 1. Una cuenta activa en Facturate.pro
 2. Acceso a tu cuenta de SUNAT
-3. Certificado digital válido de SUNAT
 
 ### Procesos previos necesarios
 
@@ -28,8 +27,7 @@ Una vez que tengas los requisitos previos, puedes comenzar a configurar tu cuent
 
 1. Inicia sesión en tu cuenta
 2. Completa la información de tu empresa
-3. Configura tus datos fiscales
-4. Agrega tu certificado digital
+3. Agrega tu certificado digital
 
 ## Siguientes pasos
 
